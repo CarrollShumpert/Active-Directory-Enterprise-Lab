@@ -1,7 +1,15 @@
 # Active Directory Domain Lab
 
-## Project Overview
-This lab simulates a small business network environment using Windows Server Active Directory. A domain controller was deployed to manage centralized authentication, and a Windows 11 workstation was joined to the domain.
+## Administrative Tasks Performed
+
+The following administrative tasks were performed to simulate common system administrator responsibilities:
+
+- Created and managed user accounts in Active Directory
+- Organized users into departmental Organizational Units
+- Performed password resets for domain users
+- Forced password changes at next login
+- Joined a Windows 11 workstation to the domain
+- Tested domain authentication using multiple user accounts
 
 ## Technologies Used
 - Windows Server
